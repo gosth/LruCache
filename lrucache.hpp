@@ -53,3 +53,4 @@ namespace cache {
         size_t _max_size;
     };
 }
+#endif
